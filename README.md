@@ -113,7 +113,7 @@ This dashboard helps convert raw data into **actionable insights for better deci
 [Table View](https://github.com/Parul13github/Real-Estate-Cancellation-Analysis-Dashboard-Tableau-/blob/main/Cancellation%20Dashboard%20(Table%20View)%20.png)
 
 ### Cohort View
-![Cohort View](./assets/cohort_view.png)
+[Cohort View](https://github.com/Parul13github/Real-Estate-Cancellation-Analysis-Dashboard-Tableau-/blob/main/Cancellation%20Dashboard%20(Cohort%20View)%20.png)
 
 ### Customer View
 ![Customer View](./assets/customer_view.png)
