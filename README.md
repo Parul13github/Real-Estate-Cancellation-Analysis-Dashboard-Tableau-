@@ -94,16 +94,6 @@ This dashboard helps convert raw data into **actionable insights for better deci
 
 ---
 
-## Dashboard Structure
-Cancellation Dashboard
-┣ Summary View
-┣ Table View
-┣ Cohort View
-┣ Customer View
-
-
----
-
 ## Key Metrics
 - Total Cancellation (TCP Value)  
 - Cancellation Count  
