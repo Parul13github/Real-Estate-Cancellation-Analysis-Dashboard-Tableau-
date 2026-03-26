@@ -107,7 +107,7 @@ This dashboard helps convert raw data into **actionable insights for better deci
 ## Dashboard Preview
 
 ### Summary View
-![Summary View](./assets/summary_view.png)
+[Summary View](https://github.com/Parul13github/Real-Estate-Cancellation-Analysis-Dashboard-Tableau-/blob/main/Cancellation%20Dashboard%20(Summary%20View).png)
 
 ### Table View
 ![Table View](./assets/table_view.png)
